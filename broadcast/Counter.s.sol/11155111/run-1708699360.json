@@ -1,0 +1,31 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CREATE",
+      "contractName": "Counter",
+      "contractAddress": "0x70163D2A96F3Be17A680Eb1a1C9b262C7B816D08",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0xab8b22ead72b5f986eb1ff3ef2d0213b7d6b97ab",
+        "gas": "0x21dee",
+        "value": "0x0",
+        "data": "0x608060405234801561001057600080fd5b5060f78061001f6000396000f3fe6080604052348015600f57600080fd5b5060043610603c5760003560e01c80633fb5c1cb1460415780638381f58a146053578063d09de08a14606d575b600080fd5b6051604c3660046083565b600055565b005b605b60005481565b60405190815260200160405180910390f35b6051600080549080607c83609b565b9190505550565b600060208284031215609457600080fd5b5035919050565b60006001820160ba57634e487b7160e01b600052601160045260246000fd5b506001019056fea2646970667358221220d0d9ddab7938f5110d4b596bed4b08e51e958848936177f9b1ce0f696635138b64736f6c63430008180033",
+        "nonce": "0x0",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1708699360,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "60d05af"
+}
